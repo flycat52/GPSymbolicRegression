@@ -27,5 +27,7 @@ Running steps:
 1. Open Terminal console
 2. Go to the project /part2 directory
 3. Run command:
+```
   java -jar ecj.jar -classpath "." ec.Evolve -file tutorial4.params -p stat.file=out.stat
+```
 4. Check out.stat for output details in the same folder
